@@ -33,10 +33,10 @@ A clone of Minecraft, but with better graphics
 <br/>
 `C++` `OpenGL` `GLSL` `Qt Creator` `Rendering` `Computer Graphics` `Game Design` `Procedural Graphics` <br/>
 
-### [MicroMaya]
+### MicroMaya
 <img src="https://github.com/liunicholas6/liunicholas6/blob/main/Micro-Maya.png" height="180" />
 A Half-Edge Mesh editor, with raycast component selection, Catmull-Clark subdivision, and Skeleton Binding
 
-### [Rithmatics]
+### Rithmatics
 <img src="https://github.com/liunicholas6/liunicholas6/blob/main/Rithmatics.gif" height="180" />
 A game based on the magic system from Brandon Sanderson's the Rithmatist. Uses custom-built computational geometry algorithms to detect drawn shapes.
