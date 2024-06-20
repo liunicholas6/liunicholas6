@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## About Me ##
 
-I'm Nicholas Liu. I am a sophomore at the University of Pennsylvania, where I am working towards a Bachelor of Science in Computer Science.
+I'm Nicholas Liu. I am a rising senior at the University of Pennsylvania, where I am working towards a Bachelor of Science in Computer Science.
 
 ## Skills ##
 ### Programming Languages ###
