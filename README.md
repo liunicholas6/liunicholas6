@@ -1,31 +1,26 @@
-### Hi there 👋
-
-<!--
-**liunicholas6/liunicholas6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ## About Me ##
 
-I'm Nicholas Liu. I am a rising senior at the University of Pennsylvania, where I am working towards a Bachelor of Science in Computer Science.
-
-## Skills ##
-### Programming Languages ###
-`C++` `C` `Python` `Haskell` `Java` `C#` `F#`
-### Other ###
-`OpenGL` `Qt Creator`
+I'm Nicholas Liu. I am a senior at the University of Pennsylvania, where I am working towards a Bachelor of Science in Computer Science.
 
 ## Projects ##
+
+### [Path Tracer](https://github.com/liunicholas6/Project3-CUDA-Path-Tracer)
+<img src="https://github.com/liunicholas6/Project3-CUDA-Path-Tracer/blob/main/img/Refraction.png" height = 180 />
+WIP : A CUDA path tracer. Supports a number of different materials and loading of gltf models
+
+### [Boids](https://github.com/liunicholas6/Project1-CUDA-Flocking)
+<img src="https://github.com/liunicholas6/Project1-CUDA-Flocking/blob/main/images/visualization.gif" height="180" />
+A boids (points that swarm, like birds or fish) written in CUDA. Can handle millions of entities in real time.
+
+### [Beat Painter](https://drive.google.com/file/d/1mVa_bl1pYovlISAQ6jfvqPHgDttGdbh7/view?usp=sharing)
+An VR rhythm game made for the Meta Quest in Unity based around painting.
+
+### [LightBoy and Shadowgirl](https://github.com/sagescherrytree/Lightboy-and-Shadowgirl)
+An Unreal Engine puzzle platformer, inspired by the classic flash game Fireboy and Watergirl
+
+### [Procedural Fireball](https://liunicholas6.github.io/hw01-fireball/)
+<img src="https://github.com/liunicholas6/hw01-fireball/blob/master/videos/background.gif" height="180"/>
+A WebGL fireball. Procedurally generated using shaders and automatically deployed with GitHub actions.
 
 ### [Mini-Minecraft](https://www.youtube.com/watch?v=3VIpxvnb1po)
 <img src="https://github.com/liunicholas6/liunicholas6/blob/main/Mini-Minecraft.png" height="180" />
